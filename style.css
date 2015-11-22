@@ -1,0 +1,52 @@
+body {
+    background-color: #b0c4de;
+}
+
+.sticks {
+    width: 20px;
+    height: 70px;
+    background: #4da1f7;
+  }
+
+#row1stick1 {
+
+ position:absolute;
+ top:100px;
+ right:600px;
+
+}
+
+#row2stick1 {
+
+position:absolute;
+top:200px;
+right:650px;
+}
+
+#row2stick2 {
+
+position:absolute;
+top:200px;
+right:550px;
+}
+
+#row3stick1 {
+
+position:absolute;
+top:300px;
+right:700px;
+}
+
+#row3stick2 {
+
+position:absolute;
+top:300px;
+right:600px;
+}
+
+#row3stick3 {
+
+position:absolute;
+top:300px;
+right:500px;
+}
